@@ -1,10 +1,5 @@
-![OpenUNS Logo](https://raw.githubusercontent.com/jasonrichardcraig/OpenUNS/main/openuns_logo.png)
+![OpenUNS Logo]([https://raw.githubusercontent.com/jasonrichardcraig/OpenUNS/main/openuns_logo.png](https://raw.githubusercontent.com/jasonrichardcraig/OpenUNS/main/OpenUNS_Logo.png))
 
-**OpenUNS**  
-*The Open Industrial Backbone*
-
-A clean, geometric logo representing the Unified Namespace for SCADA, Measurement, GIS, Ticketing, and Field Data Capture.  
-The interconnected nodes symbolize telemetry, hierarchy, and multi-tenant sharing across industrial domains.
 # OpenUNS
 
 **OpenUNS** is an open‑source Unified Namespace (UNS) for industrial automation, built on **OPC UA**, **SQL Server hierarchyid**, and **MQTT Sparkplug B**.  
