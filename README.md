@@ -1,4 +1,4 @@
-![OpenUNS Logo]([https://raw.githubusercontent.com/jasonrichardcraig/OpenUNS/main/openuns_logo.png](https://raw.githubusercontent.com/jasonrichardcraig/OpenUNS/main/OpenUNS_Logo.png))
+![OpenUNS Logo](https://raw.githubusercontent.com/jasonrichardcraig/OpenUNS/main/OpenUNS_Logo.png)
 
 # OpenUNS
 
